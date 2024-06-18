@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nadeemamanah
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 Reach me - IG- @nadeemamanah  
 
